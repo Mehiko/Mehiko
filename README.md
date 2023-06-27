@@ -1,6 +1,6 @@
 ## Hi there, I'm Patryk 👋
 
-<img src="https://raw.githubusercontent.com/Mehiko/Mehiko/main/images/myPhoto.png" alt="photo showing myself as emoji">
+<img src="https://raw.githubusercontent.com/Mehiko/Mehiko/main/myPhoto.jpg" alt="photo showing myself as emoji">
 
 ### About me
 
